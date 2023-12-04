@@ -1,0 +1,67 @@
+.titre{
+    border:black 1px solid ;
+    background-color: red;
+    position: fixed;
+    width: 100%;
+    
+}
+.page{
+    border: black 1px solid;
+    text-align: center;
+    background-color: red;
+    height:300px ;
+    padding-top: 50px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    margin-right:5px ;
+    display: inline-block;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.une{
+    margin-left:200px ;
+    margin-right: 50px;
+    padding:50px ;
+}
+.mod{
+    color: #B5B5B5;
+}
+    
+.deux{
+    border: whitesmoke 1px solid;
+    background-color: #B5B5B5;
+    padding: 50px;
+    
+}
+.trois{
+    border: whitesmoke 1px solid;
+    height: 50px;
+    text-align: center;
+    background-color: gray;
+    color: white;
+    padding-top: 20px;
+}
+.quatre{
+    border: whitesmoke 0.5px solid;
+    text-align: center;
+    margin-top: 50px;
+}
+h1{
+    color: white;
+    font-size: 80px;
+}
+h4{
+    color: white;
+}
+.btn{
+    background-color: black;
+    color: white;
+}
+a:hover{
+background-color: white;
+}
